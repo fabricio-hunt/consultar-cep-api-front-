@@ -62,5 +62,5 @@ GitHub: /fabricio-hunt
 
 ========================================================
 
-<img width="698" height="787" alt="image" src="https://github.com/user-attachments/assets/c8dbc29c-ff03-47f1-bd51-333b5035e7e5" />
+<img width="688" height="800" alt="image" src="https://github.com/user-attachments/assets/2749d327-d4e8-4a40-b1b6-918ca7100a88" />
 
